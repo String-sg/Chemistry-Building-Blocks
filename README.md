@@ -1,6 +1,6 @@
 # Chemistry Building Blocks<br>
 **Developer** : Kuang Wen<br>
-**Product Ops and Documentation** : Kahhow<br>
+**ProdOps and Documentation** : Kahhow<br>
 
 - Chemistry Building Blocks is a word plugin that enables Chemistry Teachers to rapidly create molecules and diagrams instead of manually making them from scratch
 
