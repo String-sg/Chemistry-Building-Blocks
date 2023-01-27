@@ -4,9 +4,12 @@
 
 - Chemistry Building Blocks is a word plugin that enables Chemistry Teachers to rapidly create molecules and diagrams instead of manually making them from scratch
 
+## Why use this?
+Save time by using preset shapes instead of manually creating chemistry diagrams from scratch! 
+
 ## Next Steps
-[ ] Update Documentation
-[ ] Reduce installation friction/ explore Microsoft Word 365 Web Plugin and alternatives
+[ ] Update Documentation<br>
+[ ] Reduce installation friction/ explore Microsoft Word 365 Web Plugin and alternatives<br>
 
 
 ## Setup + Installation Instructions
